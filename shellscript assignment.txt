@@ -1,0 +1,5 @@
+1)write shellscript to find "error" message in serverlogfile.log
+command:Win +r,,enter enter eventvmr 
+
+2)write shellscript to ping the machine is up or down?
+ping -c4 $ip_address
